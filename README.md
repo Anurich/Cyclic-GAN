@@ -37,4 +37,4 @@ Loss used are three.
   <li> In order to train on GPU, one need to enable the GPU support.</li>
 </ul>
 <h2> Contribute. </h2>
-I would really appreciate any suggestion, or any complain about the code. As well feel free to contribute to the project. 
+I would really appreciate any suggestion, or any complain about the code. As well as feel free to contribute to the project. 
